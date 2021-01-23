@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/31/156249-Japan-drawing-minimalism.jpg");
+}
+h1{
+    color: crimson;
+}
+div{
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    margin: auto;
+    height: 600px;
+    width: 500px;
+    background-color: darkgray;
+    padding: 50px;
+    border: 10px solid crimson;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
